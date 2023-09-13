@@ -7,3 +7,6 @@ all: greeting math
 directories:
 	-mkdir tmp
 	-mkdir data
+
+downloads:
+	curl ""
